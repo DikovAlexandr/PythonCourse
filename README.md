@@ -1,2 +1,2 @@
-# Python_MEPhI_course
-Theory and problems
+# Python MEPhI course
+Theory and problems of 
