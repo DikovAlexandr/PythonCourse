@@ -3,7 +3,7 @@ import os
 
 file_list = os.listdir('maps/')
 image_files = [file for file in file_list]
-image_files.sort()
+image_files.sort(key=lambda x: int(x.split('time-')[1].split('_tau')[0]))
 
 tau_values = []
 images = []
