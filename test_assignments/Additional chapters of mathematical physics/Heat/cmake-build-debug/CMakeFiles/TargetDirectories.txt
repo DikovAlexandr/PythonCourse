@@ -1,0 +1,3 @@
+C:/Users/dsash/CLionProjects/Heat/cmake-build-debug/CMakeFiles/Heat.dir
+C:/Users/dsash/CLionProjects/Heat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dsash/CLionProjects/Heat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

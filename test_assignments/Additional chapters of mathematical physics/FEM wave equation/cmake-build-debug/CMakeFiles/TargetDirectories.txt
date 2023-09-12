@@ -1,0 +1,3 @@
+C:/Users/dsash/CLionProjects/FEM wave equation/cmake-build-debug/CMakeFiles/FEM_wave_equation.dir
+C:/Users/dsash/CLionProjects/FEM wave equation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dsash/CLionProjects/FEM wave equation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
